@@ -42,6 +42,3 @@ Exploratory Data Analysis (EDA) of customer data from a marketing campaign to un
 - Consider alternate strategies for **mid-aged and low-income groups**  
 - Promote top-selling categories to reinforce spending patterns
 
----
-
-## 📎 Project Structure  
